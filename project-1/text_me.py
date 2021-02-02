@@ -3,10 +3,10 @@ from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
 
 def texter(timestamp):
-    email = "tonybpi75@gmail.com"
-    password = "Tony1975pi"
+    email = ""
+    password = ""
 
-    sms_gateway = "9733328570@tmomail.net"
+    sms_gateway = ""
 
     smtp = "smtp.gmail.com"
     port = 587
